@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Desenvolvimento\flutter\.pub-cache\hosted\pub.dartlang.org\kommunicate_flutter_plugin-1.0.9\android\src\main\AndroidManifest.xml:1:1-2:68
+INJECTED from C:\Desenvolvimento\flutter\.pub-cache\hosted\pub.dartlang.org\kommunicate_flutter_plugin-1.0.9\android\src\main\AndroidManifest.xml:1:1-2:68
+INJECTED from C:\Desenvolvimento\flutter\.pub-cache\hosted\pub.dartlang.org\kommunicate_flutter_plugin-1.0.9\android\src\main\AndroidManifest.xml:1:1-2:68
+	package
+		ADDED from C:\Desenvolvimento\flutter\.pub-cache\hosted\pub.dartlang.org\kommunicate_flutter_plugin-1.0.9\android\src\main\AndroidManifest.xml:2:5-56
+		INJECTED from C:\Desenvolvimento\flutter\.pub-cache\hosted\pub.dartlang.org\kommunicate_flutter_plugin-1.0.9\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Desenvolvimento\flutter\.pub-cache\hosted\pub.dartlang.org\kommunicate_flutter_plugin-1.0.9\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Desenvolvimento\flutter\.pub-cache\hosted\pub.dartlang.org\kommunicate_flutter_plugin-1.0.9\android\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from C:\Desenvolvimento\flutter\.pub-cache\hosted\pub.dartlang.org\kommunicate_flutter_plugin-1.0.9\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Desenvolvimento\flutter\.pub-cache\hosted\pub.dartlang.org\kommunicate_flutter_plugin-1.0.9\android\src\main\AndroidManifest.xml
+INJECTED from C:\Desenvolvimento\flutter\.pub-cache\hosted\pub.dartlang.org\kommunicate_flutter_plugin-1.0.9\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Desenvolvimento\flutter\.pub-cache\hosted\pub.dartlang.org\kommunicate_flutter_plugin-1.0.9\android\src\main\AndroidManifest.xml
+		ADDED from C:\Desenvolvimento\flutter\.pub-cache\hosted\pub.dartlang.org\kommunicate_flutter_plugin-1.0.9\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Desenvolvimento\flutter\.pub-cache\hosted\pub.dartlang.org\kommunicate_flutter_plugin-1.0.9\android\src\main\AndroidManifest.xml
